@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "dev.melncat.aerodynamicminecarts.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"GameRulesMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
