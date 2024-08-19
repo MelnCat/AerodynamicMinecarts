@@ -4,7 +4,7 @@
 	"package": "dev.melncat.aerodynamicminecarts.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"GameRulesMixin"
+		"GameRulesMixin", "NewMinecartBehaviorMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
