@@ -7,6 +7,6 @@ public class AerodynamicMinecarts implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		new GameRuleCommand();
+
 	}
 }
